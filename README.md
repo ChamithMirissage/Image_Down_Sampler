@@ -2,7 +2,7 @@
 
 # Introduction
   
-  This is a custom CISC(Complex Instruction Set Computer) based processor which is able to perform few arithmetic operations to down sample a 256*256 size image. This processor is able to perform 16 different operations. The image is downloaded through the UART communication and stored in the 2MB SRAM module embedded inside the intel Altera DE2-115 Development and Education Board. The image is down sampled to 128*128 size by applying a Gaussian filter.
+  This is a custom CISC(Complex Instruction Set Computer) based processor which is able to perform few arithmetic operations to down sample a 256x256 size image. This processor is able to perform 16 different operations. The image is downloaded through the UART communication and stored in the 2MB SRAM module embedded inside the intel Altera DE2-115 Development and Education Board. The image is down sampled to 128x128 size by applying a Gaussian filter.
   
   # Processor Architecture
   
